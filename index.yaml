@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  helm-guestbook:
+  - apiVersion: v2
+    appVersion: "1.0"
+    created: "2024-10-27T17:27:06.203321193Z"
+    description: A Helm chart for Kubernetes
+    digest: 3cc507f31efa05b94fb943c04b4c91e9e0bca15de8d556f6229892947bdac22c
+    name: helm-guestbook
+    type: application
+    urls:
+    - https://rajivreddy.github.io/argo-example/helm-guestbook-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-10-27T17:27:06.202883576Z"
