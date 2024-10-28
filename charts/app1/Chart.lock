@@ -1,0 +1,6 @@
+dependencies:
+- name: helm-guestbook
+  repository: https://rajivreddy.github.io/argo-example/
+  version: 0.2.0
+digest: sha256:36c2c84ae90e3fa5fa774624d4c14b82f399825442a04480f5eb1ff7413ffe3e
+generated: "2024-10-28T08:28:42.179472+05:30"
