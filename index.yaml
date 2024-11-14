@@ -3,13 +3,13 @@ entries:
   app1:
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2024-10-30T10:41:15.107081308Z"
+    created: "2024-11-14T07:12:06.017094669Z"
     dependencies:
     - name: helm-guestbook
       repository: https://rajivreddy.github.io/argo-example/
       version: 0.2.1
     description: Helm Chart for deploying the app1 application
-    digest: a4eaf7b898502ceb6ad4415c74c229fbe69f931036b190327962f5b7789bee92
+    digest: a65481af00df34619ea7a791b8099c3e27e17a910bda9855d15b13620be8da91
     name: app1
     type: application
     urls:
@@ -46,9 +46,9 @@ entries:
   helm-guestbook:
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2024-10-30T10:41:15.107367072Z"
+    created: "2024-11-14T07:12:06.017372318Z"
     description: A Helm chart for Kubernetes
-    digest: d84169ed0ddf463cb1a13d908434edbd3a4dac95ffd927818e5ba0dd7088a7c9
+    digest: 96b340d9ab6db55e7900cdfed0dfec0f51ab9622390e371e0ca3f60151401419
     name: helm-guestbook
     type: application
     urls:
@@ -74,4 +74,4 @@ entries:
     urls:
     - https://rajivreddy.github.io/argo-example/helm-guestbook-0.1.0.tgz
     version: 0.1.0
-generated: "2024-10-30T10:41:15.106528786Z"
+generated: "2024-11-14T07:12:06.01579251Z"
